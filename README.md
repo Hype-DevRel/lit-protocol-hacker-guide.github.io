@@ -37,14 +37,11 @@ You can read more about this upgrade [here](link to the blog).
 
 ## All you need to know about HackFS
 
-[![lit_hackfs-cover](https://github.com/Hype-DevRel/lit-protocol-hacker-guide.github.io/assets/32809211/979de822-4a05-4652-875b-7a3a348b68a1)](https://www.youtube.com/watch?v=CPUkGC-OCFc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CPUkGC-OCFc?si=QnQnV_JClR7blrOd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## FAQ
 
 🤓 [Frequently asked questions](https://developer.litprotocol.com/v3/support/faq)
-
-## Test
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CPUkGC-OCFc?si=QnQnV_JClR7blrOd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # App Ideas & Examples:
 
