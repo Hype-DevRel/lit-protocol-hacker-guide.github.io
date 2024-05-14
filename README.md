@@ -1,22 +1,25 @@
 ## What is Lit Protocol?
-Lit Protocol is a network that creates and securely stores keys across a decentralized network of nodes, allowing for simplified login and signing, encryption/decryption with flexible access control conditions, and privacy-preserving serverless computation. It provides web3 builders with advanced cryptographic tools and secure hardware to manage non-custodial keys, perform private computations, handle data encryption, execute cross-chain functions, and develop privacy-preserving applications.
+[Lit](https://litprotocol.com) is a decentralized key management and compute network. Builders of apps, wallets, protocols, and AI agents use Lit to advance digital ownership with decentralized keys and private, immutable programs. 
+
+Lit provides web3 builders with advanced cryptographic tools and secure hardware to manage non-custodial keys, perform private computations, handle data encryption, execute cross-chain functions, develop privacy-preserving applications, and so much more.
 
 <br>
 
 ## What are Lit Actions?
-Lit Actions are JavaScript programs designed to handle signing and authentication tasks for Programmable Key Pairs (PKPs). When integrated with PKPs, these actions function like serverless functions, with their own private key-pair. This combination allows developers to execute arbitrary code, including conditional signing conditions, hitting Web2.0 or Web3.0 APIs to update state, verifying private data within a trusted execution environment, and more.
+Blockchains like Ethereum have smart contracts that let developers encode logic to change that state. As a key management network, Lit provides a method that allows developers to encode logic that dictates signing and encryption / decryption. 
 
-Operating within the Lit network, Lit Actions offer a unique method for interaction, enabling the chaining of multiple actions to develop complex applications and protocols. This functionality allows developers to sign and decrypt data securely within the Lit sealed compute environment, paving the way for innovative decentralized application development.
+Lit Actions are JavaScript functions that can be used read and write data across blockchains, web2 platforms, and the rest of the web3 world. You can think of them as decentralized serverless functions with access to their own public / private key pair. You can use Lit Actions to generate signatures when your specified on or off-chain conditions are met, fetch data from off-chain platforms, manage permissions for [Programmable Key Pairs](https://developer.litprotocol.com/v3/sdk/wallets/intro) (PKPs), and so much more.
+
+All Lit Actions are executed within the trusted execution environment (TEE) present within each Lit node, meaning the computation remains completely private and immutable. Additionally, all Lit Actions can be chained together to create sophisticated applications and protocols.
 
 <br>
 
 ## All you need to know about V0.1
+The latest v0.1 update of the Lit Protocol introduces general performance improvements, and  the ability to decrypt and sign within a Lit Action, taking advantage of the Lit nodes’ trusted execution environments (TEEs) for privacy-preserving, scalable, and verifiable computation. 
 
-The latest v0.1 update of the Lit Protocol introduces significant performance improvements, and  the ability to decrypt and sign within a Lit Action, taking advantage of our nodes’ trusted execution environments for privacy-preserving, scalable, and verifiable computation. 
+Previously, Lit Actions could not use private material for signing without involving the user. Now, developers can create Lit Actions that handle signing autonomously, making it possible to replace centralized servers used for signing with decentralized, serverless functions that can be called from dApps when needed.
 
-Previously, all signing and decryption activities with Lit followed a standard pattern. This new model not only complements the existing functionalities but also broadens the scope for developers by potentially eliminating the need for maintaining separate servers for web3 applications.
-
-You can read more about this upgrade [here](link to the blog).
+You can read more about this upgrade [here](https://spark.litprotocol.com/lit-v0-1-live-on-testnet/).
 
 <br>
 
