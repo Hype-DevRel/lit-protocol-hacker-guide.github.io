@@ -10,7 +10,7 @@ Operating within the Lit network, Lit Actions offer a unique method for interact
 
 The latest v0.1 update of the Lit Protocol introduces significant performance improvements, and  the ability to decrypt and sign within a Lit Action, taking advantage of our nodes’ trusted execution environments for privacy-preserving, scalable, and verifiable computation. 
 
-Previously, all signing and decryption activities with Lit followed a standard pattern. However, with this new upgrade, developers now have access to an additional workflow model, shown in the second diagram. This new model not only complements the existing functionalities but also broadens the scope for developers by potentially eliminating the need for maintaining separate servers for web3 applications.
+Previously, all signing and decryption activities with Lit followed a standard pattern. This new model not only complements the existing functionalities but also broadens the scope for developers by potentially eliminating the need for maintaining separate servers for web3 applications.
 
 You can read more about this upgrade [here](link to the blog).
 
@@ -50,40 +50,40 @@ You can read more about this upgrade [here](link to the blog).
 - **Private credential issuance App**: Implement a decentralized identity management system using Lit Actions, where users can request verifiable credentials without revealing their sensitive data.
 - **Decentralized ID verification App**: Create a decentralized ID verification system with Lit Actions, enabling users to control their identity data and share it securely with third-party services.
 - **Self-sovereign identity**: Build a self-sovereign identity platform using Lit Actions, allowing users to manage their digital identities and share verified attributes with organizations and services.
-- **Zero-Knowledge Proof Authentication**: Implement a zero-knowledge proof authentication system using Lit Actions, where users can prove possession of certain credentials without revealing the credentials themselves.
-- **Decentralized Reputation System**: Create a decentralized reputation system with Lit Actions, allowing users to build reputations based on their interactions within a network while maintaining privacy.
-- **Selective Disclosure Tools**: Develop tools within Lit Actions for selective disclosure of identity attributes, enabling users to share only necessary information for specific transactions or interactions.
+- **Zero-Knowledge proof authentication**: Implement a zero-knowledge proof authentication system using Lit Actions, where users can prove possession of certain credentials without revealing the credentials themselves.
+- **Decentralized reputation system**: Create a decentralized reputation system with Lit Actions, allowing users to build reputations based on their interactions within a network while maintaining privacy.
+- **Selective disclosure tools**: Develop tools within Lit Actions for selective disclosure of identity attributes, enabling users to share only necessary information for specific transactions or interactions.
 
 ## **Gaming**
 
 - **Autonomous NPCs application**: Create immersive gaming experiences with Lit Actions, where non-player characters (NPCs) can interact with players using decentralized oracles and cross-chain messaging.
 - **Decentralized gaming tournaments application**: Develop a decentralized gaming tournament platform using Lit Actions, where gamers can participate in private and secure tournaments.
 - **Interactive NFTs**: Build an interactive and secure NFT platform using Lit Actions, where NFT attributes can be uniquely updated based on game achievements and external data.
-- **Player-Owned Virtual Worlds**: Create player-owned virtual worlds using Lit Actions, where users can create, own, and monetize their virtual spaces securely and privately.
-- **Blockchain-Based Asset Trading**: Develop a blockchain-based asset trading platform using Lit Actions, allowing players to securely trade virtual assets across different games.
+- **Player-owned virtual worlds**: Create player-owned virtual worlds using Lit Actions, where users can create, own, and monetize their virtual spaces securely and privately.
+- **Blockchain-based asset trading**: Develop a blockchain-based asset trading platform using Lit Actions, allowing players to securely trade virtual assets across different games.
 
 ## **AI (Artificial Intelligence)**
 
 - **Private AI inference**: Develop AI models that run within Lit, ensuring private and secure computations for sensitive data.
 - **Decentralized AI marketplace**: Create a decentralized AI marketplace using Lit Actions, where AI models can be bought and sold securely and privately.
 - **AI-driven oracles**: Build AI-driven oracles using Lit Actions, where AI models can be used to generate predictions and insights in a secure and private manner.
-- **Federated Learning Framework**: Develop a federated learning framework within Lit Actions, allowing multiple parties to collaborate on AI model training without sharing raw data.
-- **Privacy-Preserving Data Analysis**: Implement privacy-preserving data analysis tools using Lit Actions, enabling organizations to gain insights from sensitive data without compromising privacy.
-- **Personalized AI Assistants**: Build personalized AI assistants using Lit Actions, which can provide tailored recommendations and assistance while preserving user privacy.
+- **Federated learning framework**: Develop a federated learning framework within Lit Actions, allowing multiple parties to collaborate on AI model training without sharing raw data.
+- **Privacy-preserving data analysis**: Implement privacy-preserving data analysis tools using Lit Actions, enabling organizations to gain insights from sensitive data without compromising privacy.
+- **Personalized AI assistants**: Build personalized AI assistants using Lit Actions, which can provide tailored recommendations and assistance while preserving user privacy.
 
 ## **DeFi (Decentralised Finance)**
 
 - **Decentralized lending**: Develop a decentralized lending platform using Lit Actions, where borrowers and lenders can interact securely and privately.
 - **Private token trading**: Create a private token trading platform using Lit Actions, where users can trade tokens securely and privately.
 - **Decentralized insurance**: Build a decentralized insurance platform using Lit Actions, where users can purchase insurance policies securely and privately.
-- **Decentralized Asset Management**: Develop a decentralized asset management platform using Lit Actions, allowing users to securely manage their digital assets and investments.
-- **Privacy-Preserving Yield Farming**: Create privacy-preserving yield farming strategies within Lit Actions, enabling users to participate in DeFi protocols without exposing sensitive information.
-- **Decentralized Identity-Based Loans**: Implement decentralized identity-based lending using Lit Actions, where users can secure loans based on their verified identities while maintaining privacy.
+- **Decentralized asset management**: Develop a decentralized asset management platform using Lit Actions, allowing users to securely manage their digital assets and investments.
+- **Privacy-preserving yield farming**: Create privacy-preserving yield farming strategies within Lit Actions, enabling users to participate in DeFi protocols without exposing sensitive information.
+- **Decentralized identity-based loans**: Implement decentralized identity-based lending using Lit Actions, where users can secure loans based on their verified identities while maintaining privacy.
 
 ## **Infrastructure**
 
 - **Decentralized oracles**: Design and implement decentralized oracles using Lit Actions, enabling secure and private computations for on-chain data.
 - **Cross-chain messaging application**: Develop a cross-chain messaging platform using Lit Actions, enabling secure and private communication between different blockchain networks.
 - **Private API gateways**: Build a private API gateway using Lit Actions, enabling secure and private API interactions between services.
-- **Secure Data Sharing Protocols**: Design secure data sharing protocols using Lit Actions, enabling encrypted and authenticated data exchange between parties.
-- **Decentralized Governance Systems**: Develop decentralized governance systems with Lit Actions, allowing communities to make collective decisions while preserving privacy and security.
+- **Secure data sharing protocols**: Design secure data sharing protocols using Lit Actions, enabling encrypted and authenticated data exchange between parties.
+- **Decentralized governance systems**: Develop decentralized governance systems with Lit Actions, allowing communities to make collective decisions while preserving privacy and security.
