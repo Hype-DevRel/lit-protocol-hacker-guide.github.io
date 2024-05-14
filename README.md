@@ -35,6 +35,10 @@ You can read more about this upgrade [here](link to the blog).
 
 ✍️ [Combine Signatures Within an Action](https://developer.litprotocol.com/v3/sdk/serverless-signing/combining-signatures)
 
+## All you need to know about HackFS
+
+[![lit_hackfs-cover](https://github.com/Hype-DevRel/lit-protocol-hacker-guide.github.io/assets/32809211/979de822-4a05-4652-875b-7a3a348b68a1)](https://www.youtube.com/watch?v=CPUkGC-OCFc)
+
 ## FAQ
 
 🤓 [Frequently asked questions](https://developer.litprotocol.com/v3/support/faq)
