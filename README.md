@@ -1,10 +1,14 @@
 ## What is Lit Protocol?
 Lit Protocol is a network that creates and securely stores keys across a decentralized network of nodes, allowing for simplified login and signing, encryption/decryption with flexible access control conditions, and privacy-preserving serverless computation. It provides web3 builders with advanced cryptographic tools and secure hardware to manage non-custodial keys, perform private computations, handle data encryption, execute cross-chain functions, and develop privacy-preserving applications.
 
+<br>
+
 ## What are Lit Actions?
 Lit Actions are JavaScript programs designed to handle signing and authentication tasks for Programmable Key Pairs (PKPs). When integrated with PKPs, these actions function like serverless functions, with their own private key-pair. This combination allows developers to execute arbitrary code, including conditional signing conditions, hitting Web2.0 or Web3.0 APIs to update state, verifying private data within a trusted execution environment, and more.
 
 Operating within the Lit network, Lit Actions offer a unique method for interaction, enabling the chaining of multiple actions to develop complex applications and protocols. This functionality allows developers to sign and decrypt data securely within the Lit sealed compute environment, paving the way for innovative decentralized application development.
+
+<br>
 
 ## All you need to know about V0.1
 
@@ -13,6 +17,8 @@ The latest v0.1 update of the Lit Protocol introduces significant performance im
 Previously, all signing and decryption activities with Lit followed a standard pattern. This new model not only complements the existing functionalities but also broadens the scope for developers by potentially eliminating the need for maintaining separate servers for web3 applications.
 
 You can read more about this upgrade [here](link to the blog).
+
+<br>
 
 ## Docs
 
@@ -25,7 +31,11 @@ You can read more about this upgrade [here](link to the blog).
 
 🫂 [Lit protocol community resources](https://developer.litprotocol.com/ecosystem/community)
 
-🚨 Lit v0.1’s documentation
+🚨 [Learn more about Lit v0.1 testnet](https://spark.litprotocol.com/lit-v0-1-live-on-testnet/)
+
+🛠️ [API docs for Lit’s V6 SDK](https://v6-api-doc-lit-js-sdk.vercel.app/)
+
+<br>
 
 ## Tutorials & Examples
 
@@ -35,13 +45,19 @@ You can read more about this upgrade [here](link to the blog).
 
 ✍️ [Combine Signatures Within an Action](https://developer.litprotocol.com/v3/sdk/serverless-signing/combining-signatures)
 
+<br>
+
 ## All you need to know about HackFS
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CPUkGC-OCFc?si=QnQnV_JClR7blrOd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br>
+
 ## FAQ
 
-🤓 [Frequently asked questions](https://developer.litprotocol.com/v3/support/faq)
+🤓 [Frequently asked questions about Lit Protocol](https://developer.litprotocol.com/v3/support/faq)
+
+<br>
 
 # App Ideas & Examples:
 
