@@ -57,12 +57,12 @@ You can read more about this upgrade [here](link to the blog).
 ## **Gaming**
 
 - **Autonomous NPCs application**: Create immersive gaming experiences with Lit Actions, where non-player characters (NPCs) can interact with players using decentralized oracles and cross-chain messaging.
-- **Decentralized gaming tournaments Application**: Develop a decentralized gaming tournament platform using Lit Actions, where gamers can participate in private and secure tournaments.
-- **Interactive NFTs**: Build a interective and secured NFT platform using Lit Actions, where NFT attributes can be updated uniquely based on game achievements and external data.
+- **Decentralized gaming tournaments application**: Develop a decentralized gaming tournament platform using Lit Actions, where gamers can participate in private and secure tournaments.
+- **Interactive NFTs**: Build an interactive and secure NFT platform using Lit Actions, where NFT attributes can be uniquely updated based on game achievements and external data.
 - **Player-Owned Virtual Worlds**: Create player-owned virtual worlds using Lit Actions, where users can create, own, and monetize their virtual spaces securely and privately.
 - **Blockchain-Based Asset Trading**: Develop a blockchain-based asset trading platform using Lit Actions, allowing players to securely trade virtual assets across different games.
 
-## **AI ( Artificial Intelligence )**
+## **AI (Artificial Intelligence)**
 
 - **Private AI inference**: Develop AI models that run within Lit, ensuring private and secure computations for sensitive data.
 - **Decentralized AI marketplace**: Create a decentralized AI marketplace using Lit Actions, where AI models can be bought and sold securely and privately.
@@ -71,7 +71,7 @@ You can read more about this upgrade [here](link to the blog).
 - **Privacy-Preserving Data Analysis**: Implement privacy-preserving data analysis tools using Lit Actions, enabling organizations to gain insights from sensitive data without compromising privacy.
 - **Personalized AI Assistants**: Build personalized AI assistants using Lit Actions, which can provide tailored recommendations and assistance while preserving user privacy.
 
-## **DeFi ( Decentralised Finance )**
+## **DeFi (Decentralised Finance)**
 
 - **Decentralized lending**: Develop a decentralized lending platform using Lit Actions, where borrowers and lenders can interact securely and privately.
 - **Private token trading**: Create a private token trading platform using Lit Actions, where users can trade tokens securely and privately.
@@ -83,7 +83,7 @@ You can read more about this upgrade [here](link to the blog).
 ## **Infrastructure**
 
 - **Decentralized oracles**: Design and implement decentralized oracles using Lit Actions, enabling secure and private computations for on-chain data.
-- **Cross-chain messaging Application**: Develop a cross-chain messaging platform using Lit Actions, enabling secure and private communication between different blockchain networks.
+- **Cross-chain messaging application**: Develop a cross-chain messaging platform using Lit Actions, enabling secure and private communication between different blockchain networks.
 - **Private API gateways**: Build a private API gateway using Lit Actions, enabling secure and private API interactions between services.
 - **Secure Data Sharing Protocols**: Design secure data sharing protocols using Lit Actions, enabling encrypted and authenticated data exchange between parties.
 - **Decentralized Governance Systems**: Develop decentralized governance systems with Lit Actions, allowing communities to make collective decisions while preserving privacy and security.
