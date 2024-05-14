@@ -90,7 +90,7 @@ You can read more about this upgrade [here](https://spark.litprotocol.com/lit-v0
 - **Privacy-preserving data analysis**: Implement privacy-preserving data analysis tools using Lit Actions, enabling organizations to gain insights from sensitive data without compromising privacy.
 - **Personalized AI assistants**: Build personalized AI assistants using Lit Actions, which can provide tailored recommendations and assistance while preserving user privacy.
 
-## **DeFi (Decentralised Finance)**
+## **DeFi (Decentralized Finance)**
 
 - **Decentralized lending**: Develop a decentralized lending platform using Lit Actions, where borrowers and lenders can interact securely and privately.
 - **Private token trading**: Create a private token trading platform using Lit Actions, where users can trade tokens securely and privately.
