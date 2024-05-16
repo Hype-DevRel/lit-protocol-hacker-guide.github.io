@@ -52,7 +52,7 @@ You can read more about this upgrade [here](https://spark.litprotocol.com/lit-v0
 
 ## All you need to know about HackFS
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CPUkGC-OCFc?si=QnQnV_JClR7blrOd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="966" height="543" src="https://www.youtube.com/embed/azMStHo6DLU" title="HackFS2024: Lit Protocol Hacker&#39;s Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
