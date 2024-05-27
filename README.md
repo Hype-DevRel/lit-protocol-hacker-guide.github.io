@@ -38,6 +38,8 @@ You can read more about this upgrade [here](https://spark.litprotocol.com/lit-v0
 
 🛠️ [API docs for Lit’s V6 SDK](https://v6-api-doc-lit-js-sdk.vercel.app/)
 
+👂 [Lit listener sdk](https://www.npmjs.com/package/@lit-protocol/lit-listener-sdk?activeTab=versions)
+
 <br>
 
 ## Tutorials & Examples
